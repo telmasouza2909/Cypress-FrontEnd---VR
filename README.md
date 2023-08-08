@@ -26,7 +26,7 @@
 
 ```json
 {
-    "baseUrl": "http://localhost/"
+    "baseUrl": "http://www.vr.com.br/"
 }
 ```
 
