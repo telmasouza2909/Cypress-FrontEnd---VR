@@ -51,6 +51,6 @@ temp/
 - Para executar os testes via script salvo em package.json: <i>npm run test:chrome</i>   
 
 
-### Outrros fontes
+### Outros fontes
 - Tutorial completo de utilização do Cypress com Cucumber: https://medium.com/@cartelli.gf/testes-automatizados-com-cypress-e-cucumber-d78b211da766
 - Curso intermediario Cypress: https://gitlab.com/wlsf82/curso-cypress-intermediario/tree/passo-a-passo-e-solucao-final#aula-5-testes-de-api
